@@ -5,12 +5,13 @@
 ## 🏆 Achievements
 **Finished 5th on the Private Leaderboard** and **7th on the Public Leaderboard** out of **110 participants** (550 total submissions).
 
-* **Competition:** [GAN Competition (GAN Challenge)](https://kaggle.com/competitions/test-gan-competition)
+* **Competition:** [GAN Competition (GAN Challenge)](https://www.kaggle.com/competitions/test-gan-competition/overview)
+* **Leaderboard:** [View Standings](https://www.kaggle.com/competitions/test-gan-competition/leaderboard)
 * **Host:** Nitin Kumar Jha
 * **Participant:** Sathvik V (Roll No: 22f2001468)
 
 ## 📖 Overview
-This project was developed for the GAN Challenge competition. The objective was to train a Generative Adversarial Network (GAN) to generate realistic **32×32 images**.
+This project was developed for the **GAN Challenge** competition. The objective was to train a Generative Adversarial Network (GAN) to generate realistic **32×32 images**.
 
 **The Twist:** Unlike standard datasets (like faces or animals), the training data consisted of **58,578 images of abstract noise patterns** (see samples below). My goal was to make a model that could learn the specific statistical distribution of this "chaos" and generate new, indistinguishable noise samples.
 
