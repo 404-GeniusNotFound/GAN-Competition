@@ -62,7 +62,7 @@ The competition used **Fréchet Inception Distance (FID)** to evaluate performan
 1.  Clone the repository.
 2.  Install dependencies: `torch`, `torchvision`, `Pillow`, `pandas`, `numpy`.
 3.  Download the competition shards into an `input/` folder.
-4.  Run the notebook `22f2001468-gan-challenge.ipynb`.
+4.  Run the notebook `final-notebook-gan.ipynb`.
 
 ```bash
 # Example: Generate samples after training
